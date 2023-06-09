@@ -1,0 +1,27 @@
+body{
+    font-family: Arial,  sans-serif;
+    margin: 20px;
+    background-color: #420df1;
+    color: white;
+}
+form{
+ margin-bottom: 30px;
+}
+label{
+    display:inline-block;
+    width: 120px;
+}
+input[type ="number"]{
+    width: 100px;
+}
+table{
+    border-collapse: collapse;
+    width: 100px;
+}
+th,td{
+    border: 1px solid #420df1;
+    width: 8px;
+}
+th{
+   background-color: #420df1;
+}
